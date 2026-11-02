@@ -1,0 +1,19 @@
+/* style.css */
+‎body {
+‎  font-family: Arial, sans-serif;
+‎  margin: 20px;
+‎}
+‎
+‎h1 {
+‎  color: blue;
+‎}
+‎
+‎section {
+‎  margin-bottom: 20px;
+‎}
+‎
+‎footer {
+‎  text-align: center;
+‎  padding: 10px;
+‎  background:lightblue;
+‎}
